@@ -5,7 +5,7 @@
  * It's very easy to make some words (**bold**) Just put two stars on either side of the word to make it bold such example below, and other words (*italic*) with Markdown. You can even ([link to Google!](http://google.com))
  
  
-![font-ex](https://github.com/BasharTaamneh/READING-NOTE/blob/main/Screenshot%202021-05-31%20181524.jpg)
+![font-ex](Screenshot 2021-05-31 181524.jpg)
 
 + *Here’s an overview of som Markdown syntax that you can use anywhere on GitHub.com or in your own text files.*
 
