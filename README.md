@@ -1,5 +1,7 @@
 # **growth mindset**
+
 ![](https://its.bconglobal.com/Portals/2/Images/resources-images/white-paper-2002/growth%20mindset%201.jpg?ver=2020-10-16-024745-400)
+
 ## *What is a growth mindset?*
 A growth mindset is when students understand that their abilities can be developed,People are born with unique genetic structures, meaning they are initially better than others at different things. However, those with a growth mindset believe that one can always improve, catch up, or even surpass others’ natural talents. 
 This is where teachers play a crucial role in shaping a student’s confidence and outlook on school through productive, continuous feedback. 
