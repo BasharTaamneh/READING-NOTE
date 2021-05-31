@@ -22,7 +22,10 @@ that as humans, we operate in both a fixed and growth mindset, Most humans have 
 - Have faith in your own ability. 
 - Emphasise growth over speed. 
 - Focus on the experience, not the end result.
+
+
 ![](https://rgslearning.files.wordpress.com/2014/09/growth-mindset-1.jpg)
+
 ### **Ways To Continue Developing Your Career**
 1. **Read.**
 + With all of those self-improvement books available, you will find no shortage of books to read (or listen to) on every aspect of career or professional development. 
