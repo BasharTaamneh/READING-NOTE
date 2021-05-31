@@ -32,4 +32,4 @@ that as humans, we operate in both a fixed and growth mindset, Most humans have 
 
 + Most professions have some sort of professional organization that you can join. You should join them and subscribe to (and read) their journals. Stay up to date on the conversations that members are having. Join their LinkedIn Groups and participate by contributing directly or responding and sharing other people's content. Staying current in this day and age is critical because change happens so rapidly. You cannot afford not to keep up, so stay current by staying in touch with your colleagues. Attend association conferences when you can. Network whenever you have the opportunity.
 
-### *to know mor about growth mindset visit this* [link](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
+### *to know more about growth mindset visit this* [link](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
