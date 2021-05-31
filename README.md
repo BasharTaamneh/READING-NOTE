@@ -1,3 +1,4 @@
+
 # **growth mindset**
 
 ![](https://its.bconglobal.com/Portals/2/Images/resources-images/white-paper-2002/growth%20mindset%201.jpg?ver=2020-10-16-024745-400)
