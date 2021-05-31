@@ -24,4 +24,10 @@ that as humans, we operate in both a fixed and growth mindset, Most humans have 
 - Focus on the experience, not the end result.
 ![](https://rgslearning.files.wordpress.com/2014/09/growth-mindset-1.jpg)
 ### **Ways To Continue Developing Your Career**
-1. *Read.*
+1. **Read.**
++ With all of those self-improvement books available, you will find no shortage of books to read (or listen to) on every aspect of career or professional development. 
+ 2. **Take A Course.**
+  + Whether you take a college or university course on campus or you sign up for an online class or attend a webinar, the opportunities for learning in any venue are almost endless. Just check them out. Find a reputable institution, entity, or individual and take a course that will build your resume and help you grow professionally. 
+3. **Join A Professional Group Or Association.**
+
++
