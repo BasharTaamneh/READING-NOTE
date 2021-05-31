@@ -20,4 +20,4 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 * If your project site is published from a private or internal repository owned by an organization using GitHub Enterprise Cloud, you can manage access control for the site. For more information, see "Changing the visibility of your GitHub Pages site."
 * Organization owners can disable the publication of GitHub Pages sites from the organization's repositories. For more information, see "Managing the publication of GitHub Pages sites for your organization."
 
-*and to know more About GitHub Pages visit this* ![ link ](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+*and to know more About GitHub Pages visit this*[ link ](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
