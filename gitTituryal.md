@@ -371,4 +371,4 @@ In order to collaborate on Git projects, you must interact with remote repositor
 
 As mentioned earlier, for cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local branch.
 
-to know more please visit this [link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
+to know more please visit this [link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1).
