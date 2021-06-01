@@ -1,4 +1,4 @@
-# **git-tutorial**
+# **git tutorial**
 ## *INTRODUCTION*
 
 - **Prerequisites**
