@@ -26,9 +26,11 @@ The standards for JavaScript are the ECMAScript Language Specification (ECMA-262
 Do not confuse JavaScript with the Java programming language. Both "Java" and "JavaScript" are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantic, and use.
 
 &nbsp
+
 ![image 3](https://codersera.com/blog/wp-content/uploads/2019/05/images-JAVA.png)
 
 &nbsp
+
 ### **examples of JavaScript !**
 
 ![ex](ex.jpg) 
