@@ -10,6 +10,8 @@ Then I worked for six months at Webhelp as a content controller, and now I'm lea
 
 | files       |         links        |
 | ----------- | -------------------- |
-| Markdown01  | [link](https://bashartaamneh.github.io/READING-NOTE/Read:%2001)   |
 | README      | [link](https://bashartaamneh.github.io/READING-NOTE/)    |
-
+| Markdown01  | [link](https://bashartaamneh.github.io/READING-NOTE/Read:%2001)   |
+| growth mindset     | [link](https://bashartaamneh.github.io/READING-NOTE/Markdown01)    |
+| index html    | [link](https://bashar-task.bashartaamneh.repl.co)    |
+| html & css style   | [link](https://bashartaamneh.github.io/OnePunchMan/)    |
