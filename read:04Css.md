@@ -15,6 +15,7 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 ### **CSS syntax**
 
+ 
 A CSS rule consists of a selector and a declaration block.
 
 ![](https://www.w3schools.com/css/img_selector.gif)
@@ -56,149 +57,103 @@ Multiple CSS declarations are separated with semicolons, and declaration blocks 
 
 When a browser reads a style sheet, it will format the HTML document according to the information in the style sheet. 
 
-**Wireframes clarify and define website features**
+**Three Ways to Insert CSS**
 
+- External CSS
+- Internal CSS
+- Inline CSS
 
-**Wireframes are quick and cheap to create**
 
+*External CSS*
 
+With an external style sheet, you can change the look of an entire website by changing just one file!
 
+Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.
 
-## *How to make your wireframe in six steps*
+*Internal CSS*
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+An internal style sheet may be used if one single HTML page has a unique style.
 
-## *How to make your wireframe good: Three key principles*
-1. [ Maintain clarity ](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/#2-gain-user-confidence)
+The internal style is defined inside the <style> element, inside the head section.
 
-2. [ Gain user confidence ](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/#2-gain-user-confidence)
+*Inline CSS*
 
-3. [ Simplicity is key ](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/#2-gain-user-confidence)
+An inline style may be used to apply a unique style for a single element.
 
-## Examples of wireframes
+To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 
-![](https://d33wubrfki0l68.cloudfront.net/dbb80f2f6a5dafa25f702ad00bc429057fb59cec/52716/en/blog/uploads/versions/samuel-student-wireframe---x----972-715x---.png)
 
+### ** Cascading Order**
 
+What style will be used when there is more than one style specified for an HTML element?
 
-![](https://d33wubrfki0l68.cloudfront.net/d05f41832b3fcbf49c8c0efc39552b1531c13bcd/ca978/en/blog/uploads/mapping-out-a-user-flow-by-hand.jpg)
-*and to know more About GitHub Pages visit this*[ link ](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+All the styles in a page will "cascade" into a new "virtual" style sheet by the following rules, where number one has the highest priority:
 
+1. Inline style (inside an HTML element)
+2. External and internal style sheets (in the head section)
+3. Browser default
 
+So, an inline style has the highest priority, and will override external and internal styles and browser defaults.
 
 
-&nbsp
-# HTML basics !
 
-### *So what is HTML?*
 
 
 
 
-&nbsp
 
-*Anatomy of an HTML element*
+## **CSS color Property**
 
 
 
-![](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
 
+*Definition and Usage*
 
+The color property specifies the color of text.
 
-1. 
+The color CSS property sets the foreground color value of an element's text and text decorations, and sets the <currentcolor> value. currentcolor may be used as an indirect value on other properties and is the default for other color properties, such as border-color.
 
-2. **
+Tip: Use a background color combined with a text color that makes the text easy to read.
 
-**
+### *colors Syntax*
 
-**
-*Elements can also have attributes that look like the following:*
+     /* Keyword values */
+    color: currentcolor;
 
-![](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)
+    /* <named-color> values */
+    color: red;
+    color: orange;
+    color: tan;
+    color: rebeccapurple;
 
+    /* <hex-color> values */
+    color: #090;
+    color: #009900;
+    color: #090a;
+    color: #009900aa;
 
-*An attribute should always have the following:*
+    /* <rgb()> values */
+    color: rgb(34, 12, 64, 0.6);
+    color: rgba(34, 12, 64, 0.6);
+    color: rgb(34 12 64 / 0.6);
+    color: rgb(34.0 12 64 / 60%);
+    color: rgba(34.6 12 64 / 30%);
 
-1. 
+       /* <hsl()> values */
+    color: hsl(30, 100%, 50%, 0.6);
+     color: hsla(30, 100%, 50%, 0.6);
+     color: hsl(30 100% 50% / 0.6);
+    color: hsla(30 100% 50% / 0.6);
+    color: hsl(30.0 100% 50% / 60%);
+    color: hsla(30.2 100% 50% / 60%);
 
-2. 
+     /* Global values */
+    color: inherit;
+    color: initial;
+     color: unset;
 
-3. 
+The color property is specified as a single <color> value.
 
-&nbsp
+Note that the value must be a uniform color. It can't be a <gradient>, which is actually a type of <image>.
 
-
-
-
-&nbsp
-
-# **Semantics**
-
-
-
-## Semantics in JavaScript
-
-
-
-## Semantics in CSS
-
-
-
-## Semantics in HTML
-
-
-
-
-
-
-&nbsp
-
-
-## Semantic elements
-
-These are some of the roughly 100 semantic elements available:
-  
-
-  [article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
-  
-
- [aside](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
-  
-
- [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
-  
-
- [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
-  
-
- [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
-  
-
- [footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
-  
-
- [header](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
-  
-
- [main](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
-  
-
- [mark](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark)
-  
-
- [nav](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
-  
-
- [section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
-  
-
- [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
-  
-
- [time](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
-  
+### *to know more about javascript visit this* [link](https://www.w3schools.com/w3css/defaulT.asp)
