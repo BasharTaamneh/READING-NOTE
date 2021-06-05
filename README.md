@@ -8,10 +8,7 @@ Then I worked for six months at Webhelp as a content controller, and now I'm lea
 
 ## table of content
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 6905c62244c5a8945602691ca7010b579b1ba0e3
   | files       |         links        |
   | ----------- | -------------------- |
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/)    |

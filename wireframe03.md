@@ -212,8 +212,3 @@ These are some of the roughly 100 semantic elements available:
   
 
  [time](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
-<<<<<<< HEAD
-  
-=======
-  
->>>>>>> 6905c62244c5a8945602691ca7010b579b1ba0e3
