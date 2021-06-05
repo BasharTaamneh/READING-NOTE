@@ -13,7 +13,7 @@
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. ... CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.
 
-### **CSS syntax**
+###  ** CSS-syntax **
 
  
 A CSS rule consists of a selector and a declaration block.
