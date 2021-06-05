@@ -1,21 +1,60 @@
 
 
 
-# **Wireframe**
-## What Exactly Is Wireframing?
-
- 
- 
-
-### **When does wireframing take place?**
-
-### **What is the purpose of wireframing?**
+# **CSS**
 
 
-*Wireframes serve three key purposes:*
+## What is CSS?
 
-**Wireframes keep the concept user-focused**
+ CSS is the language we use to style an HTML document, CSS describes how HTML elements should be displayed.
 
+
+### **What is CSS exactly for?**
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. ... CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.
+
+### **CSS syntax**
+
+A CSS rule consists of a selector and a declaration block.
+
+![](https://www.w3schools.com/css/img_selector.gif)
+
+
+&nbsp
+
+
+
+The selector points to the HTML element you want to style.
+
+The declaration block contains one or more declarations separated by semicolons.
+
+Each declaration includes a CSS property name and a value, separated by a colon.
+
+Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
+
+
+*Example:*
+
+    p {
+    color: red;
+    text-align: center;
+    }
+
+
+*Example Explained*
+
+
+- p is a selector in CSS (it points to the HTML element you want to style: <p>).
+- color is a property, and red is the property value
+- text-align is a property, and center is the property value
+
+
+
+
+
+## **How To Add CSS**
+
+When a browser reads a style sheet, it will format the HTML document according to the information in the style sheet. 
 
 **Wireframes clarify and define website features**
 
