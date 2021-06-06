@@ -1,4 +1,4 @@
-# ** Programming with JavaScript**
+# **Programming with JavaScript**
 
 ## *Control flow*
 
