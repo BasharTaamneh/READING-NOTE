@@ -171,14 +171,14 @@ in italic.
 
 # <blockquote>
 
-The <blockquote> element is
+The blockquote element is
 used for longer quotes that take
 up an entire paragraph. Note
 how the <p> element is still
-used inside the <blockquote>
+used inside the blockquote
 element.
 Browsers tend to indent the
-contents of the <blockquote>
+contents of the blockquote
 element, however you should not
 use this element just to indent a
 piece of text — rather you should
