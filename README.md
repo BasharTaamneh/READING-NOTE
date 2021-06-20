@@ -34,7 +34,7 @@ Then I worked for six months at Webhelp as a content controller, and now I'm lea
   | lap 1 | [link](https://bashartaamneh.github.io/Lab-01b/)   |
    | class-01 | [link](https://bashartaamneh.github.io/READING-NOTE/class-01)|
   | lap 2 | [link]()    |
-   | class-02 | [link]() |
+   | class-02 | [link](https://bashartaamneh.github.io/READING-NOTE/class-02) |
   |   lap 3  | [link]()   |
   | lap 4 | [link]()      |
   |lap 5 | [link]()       |
