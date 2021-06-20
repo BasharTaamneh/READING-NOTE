@@ -10,17 +10,17 @@ appropriate structure for the page.
 
 HTML has six "levels" of
 headings:
-<h1> is used for main headings
-<h2> is used for subheadings
+h1> is used for main headings
+h2> is used for subheadings
 If there are further sections
 under the subheadings then the
-<h3> element is used, and so
+h3> element is used, and so
 on...
 Browsers display the contents of
 headings at different sizes. The
-contents of an <h1> element is
+contents of an h1> element is
 the largest, and the contents of
-an <h6> element is the smallest.
+an h6> element is the smallest.
 The exact size at which each
 browser shows the headings
 can vary slightly. Users can also
@@ -34,8 +34,8 @@ come to look at CSS.
 
 To create a paragraph, surround
 the words that make up the
-paragraph with an opening <p>
-tag and closing </p> tag.
+paragraph with an opening p>
+tag and closing /p> tag.
 By default, a browser will show
 each paragraph on a new line
 with some space between it and
@@ -43,25 +43,25 @@ any subsequent paragraphs.
 
 ## Bold & It alic
 
- # <b>
+ # <b
 
 By enclosing words in the tags
-<b> and </b> we can make
+b and /b we can make
 characters appear bold.
-The <b> element also represents
+The b element also represents
 a section of text that would be
 presented in a visually different
 way (for example key words in a
 paragraph) although the use of
-the <b> element does not imply
+the b element does not imply
 any additional meaning.
 
- # <i>
+ # <i
 
 By enclosing words in the tags
-<i> and </i> we can make
+i and /i we can make
 characters appear italic.
-The <i> element also represents
+The i element also represents
 a section of text that would be
 said in a different way from
 surrounding content — such as
@@ -72,9 +72,9 @@ italicized.
 
 ## Superscript & Subscript
 
-# <sup>
+# <sup
 
-The <sup> element is used
+The sup element is used
 to contain characters that
 should be superscript such
 as the suffixes of dates or
@@ -82,9 +82,9 @@ mathematical concepts like
 raising a number to a power such
 as 22.
 
-# <sub>
+# <sub
 
-The <sub> element is used to
+The sub element is used to
 contain characters that should
 be subscript. It is commonly
 used with foot notes or chemical
@@ -111,7 +111,7 @@ to follow.
 
 ## Line Breaks & Horizontal Rules
 
-# <br />
+# br />
 
 As you have already seen, the
 browser will automatically show
@@ -119,16 +119,16 @@ each new paragraph or heading
 on a new line. But if you wanted
 to add a line break inside the
 middle of a paragraph you can
-use the line break tag <br />.
+use the line break tag br />.
 
-# <hr />
+# hr />
 
 To create a break between
 themes — such as a change of
 topic in a book or a new scene
 in a play — you can add a
 horizontal rule between sections
-using the <hr /> tag.
+using the hr /> tag.
 There are a few elements that
 do not have any words between
 an opening and closing tag. They
@@ -146,25 +146,25 @@ good habit to get into.
 
 ## St rong & Emph asis
 
-# <strong>
+# strong>
 
-The use of the <strong>
+The use of the strong>
 element indicates that its
 content has strong importance.
 For example, the words
 contained in this element might
 be said with strong emphasis.
 By default, browsers will show
-the contents of a <strong>
+the contents of a strong>
 element in bold.
 
-# <em>
+# em>
 
-The <em> element indicates
+The em> element indicates
 emphasis that subtly changes
 the meaning of a sentence.
 By default browsers will show
-the contents of an <em> element
+the contents of an em> element
 in italic.
 
 ## Quotations
@@ -174,7 +174,7 @@ in italic.
 The blockquote element is
 used for longer quotes that take
 up an entire paragraph. Note
-how the <p> element is still
+how the p> element is still
 used inside the blockquote
 element.
 Browsers tend to indent the
@@ -184,16 +184,16 @@ use this element just to indent a
 piece of text — rather you should
 achieve this effect using CSS.
 
-# <q>
+# q>
 
-The <q> element is used for
+The q> element is used for
 shorter quotes that sit within
 a paragraph. Browsers are
 supposed to put quotes around
-the <q> element, however
+the q> element, however
 Internet Explorer does not —
 therefore many people avoid
-using the <q> element.
+using the q> element.
 Both elements may use the cite
 attribute to indicate where the
 quote is from. Its value should
@@ -203,10 +203,10 @@ the quotation.
 
 ## Abb reviations & Acronyms
 
-# <abbr> 
+# abbr> 
 
 If you use an abbreviation or
-an acronym, then the <abbr>
+an acronym, then the abbr>
 element can be used. A title
 attribute on the opening tag is
 used to specify the full term.
@@ -215,8 +215,8 @@ In HTML 4 there was a separate
 acronyms. To spell out the full
 form of the acronym, the title
 attribute was used (as with the
-<abbr> element above). HTML5
-just uses the <abbr> element
+abbr> element above). HTML5
+just uses the abbr> element
 for both abbreviations and
 acronyms.
 
@@ -227,18 +227,18 @@ acronyms.
 When you are referencing a
 piece of work such as a book,
 film or research paper, the
-<cite> element can be used
+cite> element can be used
 to indicate where the citation is
 from.
-In HTML5, <cite> should not
+In HTML5, cite> should not
 really be used for a person's
 name — but it was allowed in
 HTML 4, so most people are
 likely to continue to use it.
 Browsers will render the content
-of a <cite> element in italics.
+of a cite> element in italics.
 
-# <dfn> 
+# dfn> 
 
 The first time you explain some
 new terminology (perhaps an
@@ -246,11 +246,11 @@ academic concept or some
 jargon) in a document, it is
 known as the defining instance
 of it.
-The <dfn> element is used to
+The dfn> element is used to
 indicate the defining instance of
 a new term.
 Some browsers show the
-content of the <dfn> element in
+content of the dfn> element in
 italics. Safari and Chrome do not
 change its appearance.
 
@@ -280,14 +280,14 @@ markup.
 # <ins
 # <del
 
-The <ins element can be used
+The ins element can be used
 to show content that has been
 inserted into a document, while
-the <del element can show text
+the del element can show text
 that has been deleted from it.
-The content of a <ins element
+The content of a ins element
 is usually underlined, while the
-content of a <del element
+content of a del element
 usually has a line through it.
 
 
@@ -317,7 +317,7 @@ contains two parts: a selector and a declaration.
 
 ![](6.png)
 
-This rule indicates that all <p
+This rule indicates that all p
 elements should be shown in the
 Arial typeface.
 Selectors indicate which
@@ -363,13 +363,13 @@ to be.
 ## link
 
  external-css.html HTML
-The <link> element can be used
+The link> element can be used
 in an HTML document to tell the
 browser where to find the CSS
 file used to style the page. It is an
 empty element (meaning it does
 not need a closing tag), and it
-lives inside the <head> element.
+lives inside the head> element.
 It should use three attributes:
 
 ## href
@@ -393,7 +393,7 @@ should be stylesheet when
 linking to a CSS file.
 An HTML page can use more
 than one CSS style sheet. To
-do this it could have a <link>
+do this it could have a link>
 element for every CSS file it
 uses. For example, some authors
 use one CSS file to control the
