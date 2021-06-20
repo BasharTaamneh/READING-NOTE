@@ -256,9 +256,9 @@ change its appearance.
 
 ## Auth or Details
 
-# <address> 
+# address
 
-The <address> element has
+The address element has
 quite a specific use: to contain
 contact details for the author of
 the page.
@@ -267,7 +267,7 @@ but it does not have to. For
 example, it may also contain a
 phone number or email address.
 Browsers often display the
-content of the <address>
+content of the address
 element in italics.
 You may also be interested in
 something called the hCard
@@ -277,31 +277,31 @@ markup.
 
 ## Changes to Content
 
-# <ins>
-# <del>
+# <ins
+# <del
 
-The <ins> element can be used
+The <ins element can be used
 to show content that has been
 inserted into a document, while
-the <del> element can show text
+the <del element can show text
 that has been deleted from it.
-The content of a <ins> element
+The content of a <ins element
 is usually underlined, while the
-content of a <del> element
+content of a <del element
 usually has a line through it.
 
 
-# <s>
+# <s
 
-The <s> element indicates
+The s element indicates
 something that is no longer
 accurate or relevant (but that
 should not be deleted).
-Visually the content of an <s>
+Visually the content of an s
 element will usually be displayed
 with a line through the center.
 Older versions of HTML had a
-<u> element for content that
+u element for content that
 was underlined, but this is being
 phased out.
 
@@ -317,7 +317,7 @@ contains two parts: a selector and a declaration.
 
 ![](6.png)
 
-This rule indicates that all <p>
+This rule indicates that all <p
 elements should be shown in the
 Arial typeface.
 Selectors indicate which
@@ -333,7 +333,7 @@ Declarations are split into two
 parts (a property and a value),
 and are separated by a colon.
 
-# *CSS Properties Affect How El ements Are Dis played
+# *CSS Properties Affect How El ements Are Dis played*
 
 CSS declarations sit inside curly brackets and each is made up of two
 parts: a property and a value, separated by a colon. You can specify
@@ -342,8 +342,8 @@ several properties in one declaration, each separated by a semi-colon.
 
 ![](8.png)
 
-This rule indicates that all <h1>,
-<h2> and <h3> elements
+This rule indicates that all h1,
+h2 and h3 elements
 should be shown in the Arial
 typeface, in a yellow color.
 Properties indicate the aspects
@@ -360,7 +360,7 @@ to be.
 
 ## Usi ng External CSS
 
-## <link>
+## link
 
  external-css.html HTML
 The <link> element can be used
