@@ -6,7 +6,7 @@
   | ----------- | -------------------- |
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
   | lap 1 | [link](https://bashartaamneh.github.io/Lab-01b/)   |
-   | class-01 | [link]()|
+   | class-01 | [link](https://github.com/BasharTaamneh/READING-NOTE/settings/pages)|
   | lap 2 | [link]()    |
    | class-02 | [link]() |
   |   lap 3  | [link]()   |
