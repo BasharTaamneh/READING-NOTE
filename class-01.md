@@ -183,3 +183,42 @@ subject (rather than just the site
 owner's understanding of it).*
 
 ![Example Site Map](1.png)
+
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+
+**HOW A BROWSER SEES A WEB PAGE**
+
+* In order to understand how you can change the content of an HTML
+page using JavaScript, you need to know how a browser interprets the
+HTML code and applies styling to it.
+
+1. RECEIVE A PAGE AS
+HTML CODE
+2. CREATE A MODEL OF
+THE PAGE AND STORE
+IT IN MEMORY
+3. USE A RENDERING
+ENGINE TO SHOW THE
+PAGE ON SCREEN
+
+* All major browsers use a JavaScript interpreter to translate your
+instructions (in JavaScript) into instructions the computer can follow.
+
+When you use JavaScript in
+the browser, there is a part of
+the browser that is called an
+interpreter (or scripting engine).
+40 THE ABC OF PROGRAMMING
+The interpreter takes your
+instructions (in JavaScript) and
+translates them into instructions
+the browser can use to achieve
+the tasks you want it to perform.
+In an interpreted programming
+language, like JavaScript. each
+line of code is translated
+one-by-one as the script is run.
+
