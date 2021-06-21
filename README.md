@@ -33,7 +33,7 @@ Then I worked for six months at Webhelp as a content controller, and now I'm lea
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
    | class-01 | [link](https://bashartaamneh.github.io/READING-NOTE/class-01)|
    | class-02 | [link](https://bashartaamneh.github.io/READING-NOTE/class-02) |
-  |   class-03  | [link]()   |
+  |   class-03  | [link](https://bashartaamneh.github.io/READING-NOTE/class-03)   |
   | class-04 | [link]()      |
   |class-05 | [link]()       |
   | class-06 | [link]()    |
