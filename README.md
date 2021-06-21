@@ -31,20 +31,18 @@ Then I worked for six months at Webhelp as a content controller, and now I'm lea
   | files       |         links        |
   | ----------- | -------------------- |
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
-  | lap 1 | [link](https://bashartaamneh.github.io/Lab-01b/)   |
    | class-01 | [link](https://bashartaamneh.github.io/READING-NOTE/class-01)|
-  | lap 2 | [link]()    |
    | class-02 | [link](https://bashartaamneh.github.io/READING-NOTE/class-02) |
-  |   lap 3  | [link]()   |
-  | lap 4 | [link]()      |
-  |lap 5 | [link]()       |
-  | lap 6 | [link]()    |
-  | lap 7  | [link]()     |
-  | lap 8  | [link]()     |
-  | lap 9 | [link]()      |
-  | lap 10| [link]()      |
-  | lap 11 | [link]()     |
-  |lap 12| [link]()       |
-  | lap 13 | [link]()     |
-  | lap 14 | [link]()     |
-  | lap 15 | [link]()     |
+  |   class-03  | [link]()   |
+  | class-04 | [link]()      |
+  |class-05 | [link]()       |
+  | class-06 | [link]()    |
+  | class-07  | [link]()     |
+  | class-08  | [link]()     |
+  | class-09 | [link]()      |
+  | class-10| [link]()      |
+  | class-11 | [link]()     |
+  |class-12| [link]()       |
+  | class-13 | [link]()     |
+  | class-14 | [link]()     |
+  |class-15 | [link]()     |
