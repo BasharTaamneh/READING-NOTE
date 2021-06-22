@@ -34,15 +34,15 @@ Then I worked for six months at Webhelp as a content controller, and now I'm lea
    | class-01 | [link](https://bashartaamneh.github.io/READING-NOTE/class-01)|
    | class-02 | [link](https://bashartaamneh.github.io/READING-NOTE/class-02) |
   |   class-03  | [link](https://bashartaamneh.github.io/READING-NOTE/class-03)   |
-  | class-04 | [link]()      |
-  |class-05 | [link]()       |
-  | class-06 | [link]()    |
-  | class-07  | [link]()     |
-  | class-08  | [link]()     |
-  | class-09 | [link]()      |
-  | class-10| [link]()      |
-  | class-11 | [link]()     |
-  |class-12| [link]()       |
-  | class-13 | [link]()     |
-  | class-14 | [link]()     |
-  |class-15 | [link]()     |
+  | class-04 | [link](https://bashartaamneh.github.io/READING-NOTE/class-04)      |
+  |class-05 | [link](https://bashartaamneh.github.io/READING-NOTE/class-05)       |
+  | class-06 | [link](https://bashartaamneh.github.io/READING-NOTE/class-06)    |
+  | class-07  | [link](https://bashartaamneh.github.io/READING-NOTE/class-07)     |
+  | class-08  | [link](https://bashartaamneh.github.io/READING-NOTE/class-08)     |
+  | class-09 | [link](https://bashartaamneh.github.io/READING-NOTE/class-09)      |
+  | class-10| [link](https://bashartaamneh.github.io/READING-NOTE/class-10)      |
+  | class-11 | [link](https://bashartaamneh.github.io/READING-NOTE/class-11)     |
+  |class-12| [link](https://bashartaamneh.github.io/READING-NOTE/class-12)       |
+  | class-13 | [link](https://bashartaamneh.github.io/READING-NOTE/class-13)     |
+  | class-14 | [link](https://bashartaamneh.github.io/READING-NOTE/class-14)     |
+  |class-15 | [link](https://bashartaamneh.github.io/READING-NOTE/class-15)     |
