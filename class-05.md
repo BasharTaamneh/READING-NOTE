@@ -406,7 +406,7 @@ of a letter m.
 #### 36pt
 ### 48pt
 ## 60pt
- # 72pt Type Scales
+# 72pt Type Scales
 
  You may have noticed that programs such as
 Word, Photoshop and InDesign offer the same
