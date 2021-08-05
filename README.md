@@ -1,12 +1,15 @@
-# INTRO
+# Reading Notes
 
-**Hello, I'm Bashar Taamneh, I'm 26 years old
-I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering and worked in the tourism field for 6 years during my studies.
+*Hello, I'm Bashar Taamneh,
+I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.
 I gained some basic programming knowledge by completing a project titled: Controlling Wheelchairs movement Using Brainwaves signals.
-Then I worked for six months at Webhelp as a content controller, and now I'm learning the full stack web development path in lutc scholarship.**
+now I'm learning the full stack web development path in lutc scholarship.*
 
+**This site contains the topics studied during the Full Stack Development Scholarship.**
 
-## table of content
+--------------------------------------------
+
+## Code 102 - Intro to Software Development
 
 
   | files       |         links        |
@@ -24,7 +27,9 @@ Then I worked for six months at Webhelp as a content controller, and now I'm lea
  | read08 js | [link](https://bashartaamneh.github.io/READING-NOTE/read08)    |
 
 
-# Code 201 Reading Notes
+--------------------------------------------
+
+## Code 201 - Foundations of Software Development
 
 
 
@@ -46,3 +51,55 @@ Then I worked for six months at Webhelp as a content controller, and now I'm lea
   | class-13 | [link](https://bashartaamneh.github.io/READING-NOTE/class-13)     |
   | class-14 | [link](https://bashartaamneh.github.io/READING-NOTE/class-14)     |
   |class-15 | [link](https://bashartaamneh.github.io/READING-NOTE/class-15)     |
+
+
+--------------------------------------------
+
+  ## Code 301 - Intermediate Software Development
+
+
+
+  | files       |         links        |
+  | ----------- | -------------------- |
+  | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
+   | class-01 | [link]()|
+   | class-02 | [link]() |
+  |   class-03  | [link]()   |
+  | class-04 | [link]()      |
+  |class-05 | [link]()       |
+  | class-06 | [link]()    |
+  | class-07  | [link]()     |
+  | class-08  | [link]()     |
+  | class-09 | [link]()      |
+  | class-10| [link]()      |
+  | class-11 | [link]()     |
+  |class-12| [link]()       |
+  | class-13 | [link]()     |
+  | class-14 | [link]()     |
+  |class-15 | [link]()     |
+
+
+--------------------------------------------
+
+  ## Code 401 - Advanced Software Development
+
+
+
+  | files       |         links        |
+  | ----------- | -------------------- |
+  | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
+   | class-01 | [link]()|
+   | class-02 | [link]() |
+  |   class-03  | [link]()   |
+  | class-04 | [link]()      |
+  |class-05 | [link]()       |
+  | class-06 | [link]()    |
+  | class-07  | [link]()     |
+  | class-08  | [link]()     |
+  | class-09 | [link]()      |
+  | class-10| [link]()      |
+  | class-11 | [link]()     |
+  |class-12| [link]()       |
+  | class-13 | [link]()     |
+  | class-14 | [link]()     |
+  |class-15 | [link]()     |
