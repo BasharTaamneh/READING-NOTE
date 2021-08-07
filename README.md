@@ -6,7 +6,7 @@
 I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.
 I gained some basic programming knowledge by completing a project titled: Controlling Wheelchairs movement Using Brainwaves signals.
 now I'm learning the full stack web development path in lutc scholarship.*
-[](bbt.bng)
+[](imgs/bbt.bng)
 
 
 
@@ -19,6 +19,7 @@ now I'm learning the full stack web development path in lutc scholarship.*
 
 
 ____
+----
 
 ## Code 102-Intro to Software Development
 
@@ -26,20 +27,21 @@ ____
   | files       |         links        |
   | ----------- | -------------------- |
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/)    |
-  | Markdown01  | [link](https://bashartaamneh.github.io/READING-NOTE/Read:%2001)   |
-  | lap02:git   | [link](https://bashartaamneh.github.io/READING-NOTE/lap02:git)    |
-  | growth mindset     | [link](https://bashartaamneh.github.io/READING-NOTE/Markdown01)    |
+  | Markdown01  | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/Read:%2001)   |
+  | lap02:git   | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/lap02:git)    |
+  | growth mindset     | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/Markdown01)    |
   | the factury html | [link](https://bashar-task.bashartaamneh.repl.co)    |
   |one punch man | [link](https://bashartaamneh.github.io/OnePunchMan/)    |
-  | read:06   | [link](https://bashartaamneh.github.io/READING-NOTE/read:06)    |
-  | read:03 wireframe  | [link](https://bashartaamneh.github.io/READING-NOTE/wireframe03)    |
- | read:04 css  | [link](https://bashartaamneh.github.io/READING-NOTE/read:04Css)    |
- | read07 js | [link](https://bashartaamneh.github.io/READING-NOTE/read07)    |
- | read08 js | [link](https://bashartaamneh.github.io/READING-NOTE/read08)    |
+  | read:06   | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/read:06)    |
+  | read:03 wireframe  | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/wireframe03)    |
+ | read:04 css  | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/read:04Css)    |
+ | read07 js | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/read07)    |
+ | read08 js | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/read08)    |
 
 
 
-
+~~~
+~~~
 
 
 ____
@@ -51,27 +53,28 @@ ____
   | files       |         links        |
   | ----------- | -------------------- |
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
-   | class-01 | [link](https://bashartaamneh.github.io/READING-NOTE/class-01)|
-   | class-02 | [link](https://bashartaamneh.github.io/READING-NOTE/class-02) |
-  |   class-03  | [link](https://bashartaamneh.github.io/READING-NOTE/class-03)   |
-  | class-04 | [link](https://bashartaamneh.github.io/READING-NOTE/class-04)      |
-  |class-05 | [link](https://bashartaamneh.github.io/READING-NOTE/class-05)       |
-  | class-06 | [link](https://bashartaamneh.github.io/READING-NOTE/class-06)    |
-  | class-07  | [link](https://bashartaamneh.github.io/READING-NOTE/class-07)     |
-  | class-08  | [link](https://bashartaamneh.github.io/READING-NOTE/class-08)     |
-  | class-09 | [link](https://bashartaamneh.github.io/READING-NOTE/class-09)      |
-  | class-10| [link](https://bashartaamneh.github.io/READING-NOTE/class-10)      |
-  | class-11 | [link](https://bashartaamneh.github.io/READING-NOTE/class-11)     |
-  |class-12| [link](https://bashartaamneh.github.io/READING-NOTE/class-12)       |
-  | class-13 | [link](https://bashartaamneh.github.io/READING-NOTE/class-13)     |
-  | class-14 | [link](https://bashartaamneh.github.io/READING-NOTE/class-14)     |
-  |class-15 | [link](https://bashartaamneh.github.io/READING-NOTE/class-15)     |
+   | class-01 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-01)|
+   | class-02 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-02) |
+  |   class-03  | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-03)   |
+  | class-04 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-04)      |
+  |class-05 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-05)       |
+  | class-06 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-06)    |
+  | class-07  | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-07)     |
+  | class-08  | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-08)     |
+  | class-09 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-09)      |
+  | class-10| [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-10)      |
+  | class-11 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-11)     |
+  |class-12| [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-12)       |
+  | class-13 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-13)     |
+  | class-14 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-14)     |
+  |class-15 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-15)     |
 
 
 
 
 
-
+~~~
+~~~
 
 ____
 
@@ -83,7 +86,7 @@ ____
   | files       |         links        |
   | ----------- | -------------------- |
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
-   |  Introduction to React and Components | [link](https://bashartaamneh.github.io/READING-NOTE/IntroductiontoReact)|
+   |  Introduction to React and Components | [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/IntroductiontoReact)|
    | class-02 | [link]() |
   |   class-03  | [link]()   |
   | class-04 | [link]()      |
@@ -102,7 +105,8 @@ ____
 
 
 
-
+~~~
+~~~
 ____
 
 ##  Code 401-Advanced Software Development
