@@ -2,11 +2,11 @@
 
 
 
-*Hello, I'm Bashar Taamneh,
+*Hello ^_^, I'm Bashar Taamneh,
 I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.
 I gained some basic programming knowledge by completing a project titled: Controlling Wheelchairs movement Using Brainwaves signals.
 now I'm learning the full stack web development path in lutc scholarship.*
-
+[](bbt.bng)
 
 
 
