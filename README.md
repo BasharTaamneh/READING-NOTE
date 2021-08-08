@@ -90,7 +90,8 @@ ____
   | ----------- | -------------------- |
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
    |  Introduction to React and Components | [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/IntroductiontoReact)|
-   | class-02 | [link]() |
+   | State and Props
+ | [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/State&Props) |
   |   class-03  | [link]()   |
   | class-04 | [link]()      |
   |class-05 | [link]()       |
