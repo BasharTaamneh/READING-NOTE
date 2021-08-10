@@ -92,7 +92,7 @@ ____
    |Introduction to React and Components|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/IntroductiontoReact)|
    |State and Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/State&Props)|
   |Passing Functions as Props| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/Passing Functions as Props)   |
-  | class-04 | [link]()      |
+  |React and Forms| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/React and Forms)      |
   |class-05 | [link]()       |
   | class-06 | [link]()    |
   | class-07  | [link]()     |
