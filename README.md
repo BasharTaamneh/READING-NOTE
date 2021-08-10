@@ -32,7 +32,7 @@ now I'm learning the full stack web development path in lutc scholarship.*
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/)    |
   | Markdown01  | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/Read:%2001)   |
   | lap02:git   | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/lap02:git)    |
-  | growth mindset     | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/Markdown01)    |
+  | growth mindset    | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/Markdown01)    |
   | the factury html | [link](https://bashar-task.bashartaamneh.repl.co)    |
   |one punch man | [link](https://bashartaamneh.github.io/OnePunchMan/)    |
   | read:06   | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/read:06)    |
@@ -91,8 +91,8 @@ ____
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
    |Introduction to React and Components|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/IntroductiontoReact)|
    |State and Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/State&Props)|
-  |Passing Functions as Props| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/Passing Functions as Props)   |
-  |React and Forms| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/React and Forms)      |
+  |Passing Functions as Props|[link] (https://bashartaamneh.github.io/READING-NOTE/301readingclass/Passing Functions as Props)|
+  |React and Forms|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/ReactandForms)|
   |class-05 | [link]()       |
   | class-06 | [link]()    |
   | class-07  | [link]()     |
