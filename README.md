@@ -91,7 +91,7 @@ ____
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
    |Introduction to React and Components|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/IntroductiontoReact)|
    |State and Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/State&Props)|
-  |Passing Functions as Props|[link] (https://bashartaamneh.github.io/READING-NOTE/301readingclass/Passing Functions as Props)|
+  |Passing Functions as Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/PassingFunctionsasProps)|
   |React and Forms|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/ReactandForms)|
   |class-05 | [link]()       |
   | class-06 | [link]()    |
