@@ -93,7 +93,7 @@ ____
    |State and Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/State&Props)|
   |Passing Functions as Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/PassingFunctionsasProps)|
   |React and Forms|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/ReactandForms)|
-  |class-05 | [link]()       |
+  |thinking in React| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/thinkinginReact)       |
   | class-06 | [link]()    |
   | class-07  | [link]()     |
   | class-08  | [link]()     |
