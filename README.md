@@ -6,7 +6,7 @@
 I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.
 I gained some basic programming knowledge by completing a project titled: Controlling Wheelchairs movement Using Brainwaves signals.
 now I'm learning the full stack web development path in lutc scholarship.*
-
+[portfolio](https://bashartaamnehportfolio.netlify.app/)
 
 ![](imgs/bbt.png)
 
