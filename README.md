@@ -94,8 +94,7 @@ ____
   |Passing Functions as Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/PassingFunctionsasProps)|
   |React and Forms|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/ReactandForms)|
   |thinking in React| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/thinkinginReact)       |
-  | class-06 | [link]()    |
-  | class-07  | [link]()     |
+  |Node.js| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/Node.js    | class-07  | [link]()     |
   | class-08  | [link]()     |
   | class-09 | [link]()      |
   | class-10| [link]()      |
