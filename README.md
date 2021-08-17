@@ -93,11 +93,10 @@ ____
    |State and Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/State&Props)|
   |Passing Functions as Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/PassingFunctionsasProps)|
   |React and Forms|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/ReactandForms)|
-  |thinking in React| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/thinkinginReact)       |
-  |Node.js|  [link] (https://bashartaamneh.github.io/READING-NOTE/301readingclass/Node.js) |
+  |thinking in React| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/thinkinginReact)||Node.js|  [link] (https://bashartaamneh.github.io/READING-NOTE/301readingclass/Node.js) |
   |REST| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/REST)     |
   |APIs| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/APIs)      |
-  | class-10| [link]()      |
+  |FUNCTIONAL PROGRAMMING| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/FUNCTIONALPROGRAMMING)      |
   | class-11 | [link]()     |
   |class-12| [link]()       |
   | class-13 | [link]()     |
