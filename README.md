@@ -97,7 +97,7 @@ ____
   |Node.js|  [link] (https://bashartaamneh.github.io/READING-NOTE/301readingclass/Node.js) |
   |REST| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/REST)     |
   |APIs| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/APIs)      |
-  |FUNCTIONAL PROGRAMMING| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/FUNCTIONALPROGRAMMING)      |
+  |FUNCTIONAL PROGRAMMING| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/Inmemorystorage)      |
   | class-11 | [link]()     |
   |class-12| [link]()       |
   | class-13 | [link]()     |
