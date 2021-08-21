@@ -1,7 +1,5 @@
 # Reading Notes
 
-
-
 *Hello ^_^, I'm Bashar Taamneh,
 I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.
 I gained some basic programming knowledge by completing a project titled: Controlling Wheelchairs movement Using Brainwaves signals.
@@ -10,22 +8,14 @@ now I'm learning the full stack web development path in lutc scholarship.*
 
 ![](imgs/bbt.png)
 
-
-
-
-
 **This site contains the topics studied during the Full Stack Development Scholarship.**
 
-
-
-
-
 ~~~
 ~~~
+
 ----
 
 ## Code 102-Intro to Software Development
-
 
   | files       |         links        |
   | ----------- | -------------------- |
@@ -41,17 +31,12 @@ now I'm learning the full stack web development path in lutc scholarship.*
  | read07 js | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/read07)    |
  | read08 js | [link](https://bashartaamneh.github.io/READING-NOTE/101readingclass/read08)    |
 
-
-
 ~~~
 ~~~
-
 
 ____
 
 ## Code 201-Foundations of Software Development
-
-
 
   | files       |         links        |
   | ----------- | -------------------- |
@@ -72,19 +57,12 @@ ____
   | class-14 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-14)     |
   |class-15 | [link](https://bashartaamneh.github.io/READING-NOTE/201readingclass/class-15)     |
 
-
-
-
-
 ~~~
 ~~~
 
 ____
 
-
 ## Code 301-Intermediate Software Development
-
-
 
   | files       |         links        |
   | ----------- | -------------------- |
@@ -94,26 +72,22 @@ ____
   |Passing Functions as Props|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/PassingFunctionsasProps)|
   |React and Forms|[link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/ReactandForms)|
   |thinking in React| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/thinkinginReact)|
-  |Node.js|  [link] (https://bashartaamneh.github.io/READING-NOTE/301readingclass/Node.js) |
+  |Node js| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/Nodejs)|
   |REST| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/REST)     |
   |APIs| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/APIs)      |
   |FUNCTIONAL PROGRAMMING| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/Inmemorystorage)      |
-  | class-11 | [link]()     |
+  |Authentication| [link](https://bashartaamneh.github.io/READING-NOTE/301readingclass/Authentication)      |
   |class-12| [link]()       |
   | class-13 | [link]()     |
   | class-14 | [link]()     |
   |class-15 | [link]()     |
 
-
-
-
 ~~~
 ~~~
+
 ____
 
-##  Code 401-Advanced Software Development
-
-
+## Code 401-Advanced Software Development
 
   | files       |         links        |
   | ----------- | -------------------- |
