@@ -92,7 +92,7 @@ ____
   | files       |         links        |
   | ----------- | -------------------- |
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
-   | class-01 | [link]()|
+   | BIG O | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes/401readingclass/bigO)|
    | class-02 | [link]() |
   |   class-03  | [link]()   |
   | class-04 | [link]()      |
