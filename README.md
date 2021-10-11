@@ -93,7 +93,7 @@ ____
   | ----------- | -------------------- |
   | README      | [link](https://bashartaamneh.github.io/READING-NOTE/201-ReadingNotes)    |
    | BIG O | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/bigO)|
-   | class-02 | [link]() |
+   | Testing and Modules | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/TestingandModules) |
   |   class-03  | [link]()   |
   | class-04 | [link]()      |
   |class-05 | [link]()       |
