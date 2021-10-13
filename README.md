@@ -95,7 +95,7 @@ ____
    | BIG O | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/bigO)|
    | Testing and Modules | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/TestingandModules) |
   |   FileIO & Exceptions | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/FileIO&Exceptions)   |
-  | class-04 | [link]()      |
+  | Topic | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Topic)      |
   |class-05 | [link]()       |
   | class-06 | [link]()    |
   | class-07  | [link]()     |
