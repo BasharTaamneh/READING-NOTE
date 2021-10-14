@@ -96,7 +96,7 @@ ____
    | Testing and Modules | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/TestingandModules) |
   |   FileIO & Exceptions | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/FileIO&Exceptions)   |
   | Topic | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/topicclass&recurssion)      |
-  |class-05 | [link]()       |
+  |Linked List | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/LinkedList)       |
   | class-06 | [link]()    |
   | class-07  | [link]()     |
   | class-08  | [link]()     |
