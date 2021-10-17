@@ -97,7 +97,7 @@ ____
   |   FileIO & Exceptions | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/FileIO&Exceptions)   |
   | Topic | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/topicclass&recurssion)      |
   |Linked List | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/LinkedList)       |
-  | class-06 | [link]()    |
+  | Game_of_Greed_1 | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Game_of_Greed_1)    |
   | class-07  | [link]()     |
   | class-08  | [link]()     |
   | class-09 | [link]()      |
