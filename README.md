@@ -101,7 +101,7 @@ ____
   | Game of Greed 2  | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Game_of_Greed_2)     |
   | Game of Greed 3  | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Game_of_Greed_3)     |
   | Game_of_Greed_4 | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Game_of_Greed_4)      |
-  | class-10| [link]()      |
+  | Stacks_and_Queues| [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Stacks_and_Queues)      |
   | class-11 | [link]()     |
   |class-12| [link]()       |
   | class-13 | [link]()     |
