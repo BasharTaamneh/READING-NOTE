@@ -104,6 +104,6 @@ ____
   | Stacks_and_Queues| [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Stacks_and_Queues)      |
   | DataAnalysis | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DataAnalysis)     |
   |pandas| [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/pandas)       |
-  | class-13 | [link]()     |
+  | Linear_Regressions | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Linear_Regressions)     |
   | class-14 | [link]()     |
   |class-15 | [link]()     |
