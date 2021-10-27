@@ -105,5 +105,5 @@ ____
   | DataAnalysis | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DataAnalysis)     |
   |pandas| [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/pandas)       |
   | Linear_Regressions | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Linear_Regressions)     |
-  | class-14 | [link]()     |
+  |  Data Visualization | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/ DataVisualization)     |
   |class-15 | [link]()     |
