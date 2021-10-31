@@ -107,4 +107,5 @@ ____
   | Linear_Regressions | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Linear_Regressions)     |
   |  Data Visualization | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DataVisualization)     |
   |Trees | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Trees)     |
+  |Machine Learning Intro | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/MachineLearningIntro)     |
 
