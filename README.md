@@ -108,4 +108,5 @@ ____
   |  Data Visualization | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DataVisualization)     |
   |Trees | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Trees)     |
   |Machine Learning Intro | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/MachineLearningIntro)     |
+  |Web Scraping | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/WebScraping)     |
 
