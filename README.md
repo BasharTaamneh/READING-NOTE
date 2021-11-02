@@ -110,4 +110,5 @@ ____
   |Machine Learning Intro | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/MachineLearningIntro)     |
   |Web Scraping | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/WebScraping)     |
   |Cryptography | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Cryptography)     |
+  |Automation | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Automation)     |
 
