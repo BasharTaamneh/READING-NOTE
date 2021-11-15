@@ -112,4 +112,5 @@ ____
   |Cryptography | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Cryptography)     |
   |Automation | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Automation)     |
   |Django | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Django)     |
+  |Django Models | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoModels)     |
 
