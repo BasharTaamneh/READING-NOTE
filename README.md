@@ -113,4 +113,5 @@ ____
   |Automation | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Automation)     |
   |Django | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Django)     |
   |Django Models | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoModels)     |
+  |Django CRUD and Forms | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoCRUDandForms)     |
 
