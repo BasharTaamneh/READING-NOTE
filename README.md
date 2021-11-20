@@ -116,4 +116,5 @@ ____
   |Django CRUD and Forms | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoCRUDandForms)     |
   |Django Custom User Model | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoCustomUserModel)     |
   |Hashtables | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Hashtables)     |
+  |Djangorest | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Djangorest)     |
 
