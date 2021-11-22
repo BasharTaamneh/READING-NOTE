@@ -123,3 +123,4 @@ ____
   |Django Custom User Model | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Django_custom_user_model)     |
   |Hashtables | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Hashtables_)     |
   |Djangorest | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Djangorest_)     |
+  |Django_rest_permissions | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Django_rest_permissions)     |
