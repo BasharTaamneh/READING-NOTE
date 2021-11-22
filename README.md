@@ -120,6 +120,6 @@ ____
   |Django | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Django)     |
   |Django Models | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoModels)     |
   |Django CRUD and Forms | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoCRUDandForms)     |
-  |Django Custom User Model | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoCustomUserModel)     |
-  |Hashtables | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Hashtables)     |
-  |Djangorest | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Djangorest)     |
+  |Django Custom User Model | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Django_custom_user_model)     |
+  |Hashtables | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Hashtables_)     |
+  |Djangorest | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Djangorest_)     |
