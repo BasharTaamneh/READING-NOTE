@@ -111,12 +111,6 @@ ____
   |Web Scraping | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/WebScraping)     |
   |Cryptography | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Cryptography)     |
   |Automation | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Automation)     |
-  
-
-
-
-  |        |                 |
-  | ----------- | -------------------- |
   |Django | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Django)     |
   |Django Models | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoModels)     |
   |Django CRUD and Forms | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/DjangoCRUDandForms)     |
@@ -124,3 +118,4 @@ ____
   |Hashtables | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Hashtables_)     |
   |Djangorest | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Djangorest_)     |
   |Django_rest_permissions | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Django_rest_permissions)     |
+  |Authentication & Production Server | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Authentication_ProductionServer)     |
