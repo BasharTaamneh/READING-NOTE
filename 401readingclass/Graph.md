@@ -338,5 +338,4 @@ a few examples of graphs in use:</p>
 </ol>
 
 <p>There is a lot to graphs, and a lot you can do with them. Let this be document be used as an introduction to graphs. There is a lot more to them then described, so start exploring, and have fun with them!</p>
-  </body>
-</html>
+
