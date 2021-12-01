@@ -123,5 +123,5 @@ ____
   |Graph | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Graph)     |
   |programming interview | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/programminginterview)     |
   |React | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/react)     |
-  |React2 | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/react2)     |
+  |React2 | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/React2)     |
   |React3 | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/react3)     |
