@@ -119,18 +119,20 @@ export default function Home() {
   return (
     <div>
       <h1>Welcome to my blog</h1>
-      {posts.map((post) => (
-        <div key={`post-${post.id}`}>
-          <Link
-            href={
-              pathname: ROUTE_POST_ID,
-              query: { id: post.id }
-            }
-          >
-            <a>{post.title}</a>
-          </Link>
-        </div>
+
+      // {posts.map((post) => (
+      //   <div key={`post-${post.id}`}>
+      //     <Link
+      //       href={{
+      //         pathname: ROUTE_POST_ID,
+      //         query: { id: post.id }
+      //       }}
+      //     >
+      //       <a>{post.title}</a>
+      //     </Link>
+      //   </div>
       ))}
+
     </div>
   );
 }
