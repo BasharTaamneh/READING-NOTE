@@ -122,10 +122,10 @@ export default function Home() {
       {posts.map((post) => (
         <div key={`post-${post.id}`}>
           <Link
-            href={{
+            href={
               pathname: ROUTE_POST_ID,
               query: { id: post.id }
-            }}
+            }
           >
             <a>{post.title}</a>
           </Link>
