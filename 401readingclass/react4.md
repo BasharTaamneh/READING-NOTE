@@ -101,7 +101,7 @@ Better! But what if I update my route later? I will have to go through all my co
 
 > Try #3:
 
-```js
+```
 import Link from "next/link";
 
 const ROUTE_POST_ID = "posts/[id]";
@@ -120,17 +120,17 @@ export default function Home() {
     <div>
       <h1>Welcome to my blog</h1>
 
-      // {posts.map((post) => (
-      //   <div key={`post-${post.id}`}>
-      //     <Link
-      //       href={{
-      //         pathname: ROUTE_POST_ID,
-      //         query: { id: post.id }
-      //       }}
-      //     >
-      //       <a>{post.title}</a>
-      //     </Link>
-      //   </div>
+       {posts.map((post) => (
+        <div key={`post-${post.id}`}>
+          <Link
+            href={{
+              pathname: ROUTE_POST_ID,
+              query: { id: post.id }
+            }}
+          >
+            <a>{post.title}</a>
+          </Link>
+        </div>
       ))}
 
     </div>
