@@ -99,44 +99,7 @@ export default function Home() {
 
 Better! But what if I update my route later? I will have to go through all my code and update all the links.
 
-> Try #3:
 
-```
-import Link from "next/link";
-
-const ROUTE_POST_ID = "posts/[id]";
-const posts = [
-  {
-    id: 1,
-    title: "Post #1"
-  },
-  {
-    id: 2,
-    title: "Post #2"
-  }
-];
-export default function Home() {
-  return (
-    <div>
-      <h1>Welcome to my blog</h1>
-
-       {posts.map((post) => (
-        <div key={`post-${post.id}`}>
-          <Link
-            href={{
-              pathname: ROUTE_POST_ID,
-              query: { id: post.id }
-            }}
-          >
-            <a>{post.title}</a>
-          </Link>
-        </div>
-      ))}
-
-    </div>
-  );
-}
-```
 
 What changed? Instead of an hard-coded url, the Link component can also accept an object for href.
 
