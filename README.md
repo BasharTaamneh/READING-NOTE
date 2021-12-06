@@ -128,3 +128,4 @@ ____
   |React4 | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/react4)     |
   | Pythonisms | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Pythonisms)     |
   | Ethics | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Ethics)     |
+  | Open_Source_Software_Contribution | [link](https://bashartaamneh.github.io/READING-NOTE/401readingclass/Open_Source_Software_Contribution)     |
